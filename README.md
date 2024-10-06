@@ -5,10 +5,9 @@ The objective of this project is to implement an FPGA-based RISC processor that 
 
 Procedure
 
-Instruction Input: A 32-bit instruction is fetched from a general-purpose register.
-Logical Operation: The ALU performs a register-based logical operation as per the instruction.
-Result Storage: The result of the operation is stored in the address specified within the instruction.
-System Demonstration: The implementation demonstrates that a RISC processor can be synthesized on an FPGA.
+Create a Project: Set up a new project in Xilinx Vivado 2020.2.
+Add Files: Add all the provided design files into the project.
+Run Simulation: Execute the simulation to verify the functionality of the RISC processor.
 
 Software and Hardware
 
